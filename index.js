@@ -8,3 +8,4 @@ let random = Math.random();
 
 let mod = 4%10;
 
+let max = Math.max(5,20,15);
