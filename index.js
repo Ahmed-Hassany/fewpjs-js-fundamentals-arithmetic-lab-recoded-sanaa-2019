@@ -8,4 +8,3 @@ let multiply = function (num1,num2){
 let random = function (){
   return Math.random();
 }
-
